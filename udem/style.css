@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 80px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+
+}
+.ul2{
+    display: flex;
+    gap: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
+input{
+    padding: 15px 35px;
+    width: 700px;
+    border-radius: 40px;
+
+}
+
+.ab{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+button{
+    border: 1px solid;
+    padding: 10px;
+    font-size: large;
+    border-radius: 5px;
+
+}
+
+.signup{
+    background-color:oklch(48.41% 0.2342 293.93deg);
+    color: white;
+    
+    
+    
+}
+
+#search-icon{
+    position: absolute;
+    z-index: 2;
+    margin-top: 15px;
+    margin-left: 7px;
+    font-size: 17px;
+}
+
+/* 2nd */
+
+.li{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    
+}
+
+.ul{
+    border: 0.5px solid;
+    border-radius: 5px;
+    padding: 3px ;
+    margin-top: 15px;
+}
+
+.img{
+    height: 390.94px;
+    width: 1292px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 324.64px;
+     width: 418px;
+      border: 0.5px;
+     border-radius: 5px;
+     margin-top: 30px;
+     gap: 20px;
+    
+}
+
+/* 3rd */
+
+.data{
+    display: flex;
+    list-style: none;
+    font-weight: 600;
+    font-size: large;
+    gap:20px;
+
+}
+
+.it{
+    background-color: white;
+    border: 0px;
+}
+
+.ch{
+    font-size:small; 
+    padding: 16px 24px 8px;
+     border-radius: 50px;
+     background-color: aliceblue;
+}
+
+.marg{
+border: 1px solid;
+border-radius: 10px;
+}
+
+/* 4th */
+
+.fourth{
+    margin: 0px 170px;
+    height: 229px;
+    width: 1300px;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.style{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* 5th */
+.learn{
+    height: 831px;
+    width: 2038px;
+    background-color: oklch(0.9759 0.0029 264.54);
+    margin-top: 50px;
+}
